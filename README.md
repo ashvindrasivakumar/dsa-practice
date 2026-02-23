@@ -1,5 +1,5 @@
 # DSA Practice Log
-
+# Python(Logic) +Java(Implementation)
 Daily problem solving to improve problem solving and interview skills.
 
 ## Progress
